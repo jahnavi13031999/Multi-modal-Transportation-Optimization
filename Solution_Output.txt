@@ -1,0 +1,6 @@
+Multi-Objective Optimization Results
+------------------------------------
+Alpha (Trade-off factor between cost and time): 0.6
+Total Cost (weighted): 160.08
+Total Delivery Time (weighted): 106.72
+Objective Value: 266.80
